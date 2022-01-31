@@ -26,7 +26,7 @@ npm run build
 ## License
 
 ### Homepage
-[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ### Schnellstarter
 Der Schnellstarter und sämtliche seiner Inhalte sind und bleiben Besitz des deutschen Lizenznehmers, dem [Uhrwerk-Verlag](https://www.uhrwerk-verlag.de). 
