@@ -26,6 +26,23 @@
 					Telefon: 0174-1070463<br />
 					E-Mail: littleperlmonk+lex_arcana@gmail.com
 				</p>
+
+				<h2>Quellcode</h2>
+				<p>
+					<a href="https://github.com/ItsNothingPersonal/lex-arcana-wille-der-goetter">Github</a>
+				</p>
+
+				<h2>Disclaimer</h2>
+				<p>
+					Der Schnellstarter und sämtliche seiner Inhalte sind und bleiben Besitz des deutschen
+					Lizenznehmers, dem <a href="https://www.uhrwerk-verlag.de">Uhrwerk-Verlag</a>. Dieser kann
+					hier direkt beim Uhrwerk-Verlag als
+					<a href="https://www.uhrwerk-verlag.de/support/downloads/">PDF heruntergeladen</a> werden.
+				</p>
+				<p>
+					Diese Seite ist ein kleines Fan-Projekt und dient einzig dazu, die Informationen des
+					Schnellstarters der eigenen Spielrunde zur Verfügung zu stellen.
+				</p>
 			</section>
 		</div>
 	</div>

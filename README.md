@@ -32,4 +32,4 @@ npm run build
 ### Schnellstarter
 
 Der Schnellstarter und sämtliche seiner Inhalte sind und bleiben Besitz des deutschen Lizenznehmers, dem [Uhrwerk-Verlag](https://www.uhrwerk-verlag.de).
-Dieser kann hier direkt beim Uhrwerkverlag als [PDF heruntergeladen](https://www.uhrwerk-verlag.de/support/downloads/) werden.
+Dieser kann hier direkt beim Uhrwerk-Verlag als [PDF heruntergeladen](https://www.uhrwerk-verlag.de/support/downloads/) werden.
