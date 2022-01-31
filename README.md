@@ -1,38 +1,33 @@
-# create-svelte
+# Lex Arcana - Der Wille der Götter
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+Die Seite für unsere Gruppe rund um den Lex Arcana Schnellstarter "Der Wille der Götter".
 
-## Creating a project
+## Entwicklung
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Nach dem `git clone` des Projekts muss zunächst `npm install` (oder `pnpm install` oder `yarn`) ausgeführt werden. Anschließend lässt sich der Entwicklungsserver wie folgt starten:
 
 ```bash
 npm run dev
 
-# or start the server and open the app in a new browser tab
+# den Server kann man wie folgt starten und die App in einem neuen Browser Tab öffnen lassen
 npm run dev -- --open
 ```
 
-## Building
+## Bauen
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+Bevor die Anwendung produktiv gesetzt werden kann, muss der build command ausgeführt werden (passiert nach commits auf main automatisch!)
 
 ```bash
 npm run build
 ```
 
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+
+## License
+
+### Homepage
+[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+### Schnellstarter
+Der Schnellstarter und sämtliche seiner Inhalte sind und bleiben Besitz des deutschen Lizenznehmers, dem [Uhrwerk-Verlag](https://www.uhrwerk-verlag.de). 
+Dieser kann hier direkt beim Uhrwerkverlag als [PDF heruntergeladen](https://www.uhrwerk-verlag.de/support/downloads/) werden.
