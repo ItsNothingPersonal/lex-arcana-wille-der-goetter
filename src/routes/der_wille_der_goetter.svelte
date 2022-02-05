@@ -9,7 +9,7 @@
 			prose-p:text-justify lg:prose-xl prose-figcaption:text-sm 
 			prose-figcaption:text-stone-900 prose-blockquote:text-stone-900 
 			prose-blockquote:leading-relaxed prose-blockquote:text-justify prose-ul:text-left 
-			prose-ol:text-left prose-li:text-justify"
+			prose-ol:text-left prose-li:text-justify px-4"
 		>
 			<section class="container mx-auto text-center py-6 mb-12">
 				<h1>Der Wille der Götter</h1>

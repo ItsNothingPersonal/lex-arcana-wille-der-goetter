@@ -8,7 +8,7 @@
 			<div class="flex flex-1 flex-col items-center lg:items-start">
 				<h2 class="text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6">Lex Arcana</h2>
 				<p class="text-lg text-center lg:text-left mb-6">Das ewige Kaiserreich</p>
-				<p class="text-justify text-black mt-4">
+				<p class="text-justify text-black mt-4 px-4">
 					Das römische Reich ist niemals gefallen, es besteht fort, gestützt durch den Kaiser und
 					seine hellseherischen Fähigkeiten, die mächtigen Legionen Roms und der Cohors Auxiliaria
 					Arcana.<br />
@@ -36,7 +36,7 @@
 <!-- Unsere Welt -->
 <section class="bg-stone-500 py-20 mt-20 lg:mt-60">
 	<!-- Heading -->
-	<div class="sm:w-3/4 lg:w-5/12 mx-auto px-2">
+	<div class="sm:w-3/4 lg:w-5/12 mx-auto px-4">
 		<h1 class="text-3xl text-center text-black">Das Jahr 475 n.Chr.: Unsere Welt</h1>
 		<p class="text-justify text-black mt-4">
 			Im 5. Jahrhundert n.Chr. schloss sich mit dem Fall des Weströmischen Reichs ein Kapitel der
@@ -46,7 +46,7 @@
 		</p>
 	</div>
 	<!-- Rede vor dem Senat -->
-	<div class="mt-20 lg:mt-24">
+	<div class="mt-20 lg:mt-24 px-4">
 		<div class="container mx-auto flex flex-col lg:flex-row items-center justify-center gap-x-24">
 			<!-- Image -->
 			<div class="flex justify-center flex-1 z-10 mb-10 lg:mb-0">
@@ -87,7 +87,7 @@
 		</div>
 	</div>
 	<!-- Eine alternative Zeitlinie -->
-	<div class="mt-20 lg:mt-24">
+	<div class="mt-20 lg:mt-24 px-4">
 		<div
 			class="container mx-auto flex flex-col lg:flex-row-reverse items-center justify-center gap-x-24 w-full"
 		>

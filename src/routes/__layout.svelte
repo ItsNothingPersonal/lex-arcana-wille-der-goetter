@@ -36,7 +36,7 @@
 							Custodes
 						</a>
 						<div
-							class="hidden hover:flex peer-hover:flex absolute left-0 space-x-4  py-5 px-3 bg-stone-500 text-stone-700 w-full items-center"
+							class="hidden hover:flex peer-hover:flex absolute space-x-4 py-5 px-3 bg-stone-500 text-stone-700 w-auto items-center"
 						>
 							<a class="float-left hover:text-stone-900" href="/custodes/hintergrund">
 								Hintergrund
@@ -67,7 +67,7 @@
 							Charaktere
 						</a>
 						<div
-							class="hidden hover:flex peer-hover:flex absolute left-0 space-x-4  py-5 px-3 bg-stone-500 text-stone-700 w-full items-center"
+							class="hidden hover:flex peer-hover:flex absolute space-x-4  py-5 px-3 bg-stone-500 text-stone-700 w-auto items-center"
 						>
 							<a class="float-left hover:text-stone-900" href="/charaktere/aulus_antilochus">
 								Aulus Antilochus
@@ -117,20 +117,25 @@
 	<!-- mobile menu -->
 	{#if showMobile}
 		<div class="md:hidden">
-			<a href="/custodes" class="block py-2 px-4 text-sm hover:text-stone-900">Custodes</a>
-			<a href="/custodes/hintergrund" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/custodes" class="block py-2 px-4 text-sm hover:text-stone-900 font-bold">
+				Custodes</a
+			>
+			<a href="/custodes/hintergrund" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Hintergrund
 			</a>
-			<a href="/custodes/officium" class="block py-2 px-4 text-sm hover:text-stone-900">Officium</a>
-			<a href="/custodes/attribute" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/custodes/officium" class="block py-2 pl-8 text-sm hover:text-stone-900">Officium</a>
+			<a href="/custodes/attribute" class="block py-2  pl-8 text-sm hover:text-stone-900">
 				Attribute
 			</a>
-			<a href="/custodes/lebenspunkte" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/custodes/lebenspunkte" class="block py-2  pl-8 text-sm hover:text-stone-900">
 				Lebenspunkte
 			</a>
-			<a href="/custodes/ausruestung" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/custodes/ausruestung" class="block py-2  pl-8 text-sm hover:text-stone-900">
 				Ausrüstung
 			</a>
+			<div class="w-full mb-4">
+				<div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t" />
+			</div>
 			<a href="/spielablauf" class="block py-2 px-4 text-sm hover:text-stone-900">Spielablauf</a>
 			<a href="/kampf" class="block py-2 px-4 text-sm hover:text-stone-900">Kampf</a>
 			<a href="/roemische_magie" class="block py-2 px-4 text-sm hover:text-stone-900">
@@ -139,22 +144,30 @@
 			<a href="/der_wille_der_goetter" class="block py-2 px-4 text-sm hover:text-stone-900">
 				Der Wille der Götter
 			</a>
-			<a href="/charaktere" class="block py-2 px-4 text-sm hover:text-stone-900">Charaktere</a>
-			<a href="/charaktere/aulus_antilochus" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<div class="w-full mb-4">
+				<div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t" />
+			</div>
+			<a href="/charaktere" class="block py-2 px-4 text-sm hover:text-stone-900 font-bold">
+				Charaktere
+			</a>
+			<a href="/charaktere/aulus_antilochus" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Aulus Antilochus
 			</a>
-			<a href="/charaktere/elektra_ziais" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/charaktere/elektra_ziais" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Elektra Ziais
 			</a>
-			<a href="/charaktere/gaius_valerius" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/charaktere/gaius_valerius" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Gaius Valerius
 			</a>
-			<a href="/charaktere/pendaran_mab_elad" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/charaktere/pendaran_mab_elad" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Pendaran mab Elad
 			</a>
-			<a href="/charaktere/zenobia_euergetes" class="block py-2 px-4 text-sm hover:text-stone-900">
+			<a href="/charaktere/zenobia_euergetes" class="block py-2 pl-8 text-sm hover:text-stone-900">
 				Zenobia Euergetes
 			</a>
+			<div class="w-full mb-4">
+				<div class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t" />
+			</div>
 			<a href="/impressum" class="block py-2 px-4 text-sm hover:text-stone-900">Imressum</a>
 		</div>
 	{/if}
