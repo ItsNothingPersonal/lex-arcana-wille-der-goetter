@@ -1,8 +1,8 @@
 <!-- Hero -->
 <section class="relative">
-	<div class="mt-14 lg:mt-28 lg:ml-20">
+	<div class="mt-14 lg:mt-28 lg:ml-20 print:mt-0">
 		<div
-			class="container mx-auto flex flex-col-reverse lg:flex-row items-center justify-center gap-12 "
+			class="container mx-auto flex flex-col-reverse lg:flex-row items-center justify-center gap-12 print:gap-0"
 		>
 			<!-- Content -->
 			<div class="flex flex-1 flex-col items-center lg:items-start">

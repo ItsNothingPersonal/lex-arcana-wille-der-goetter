@@ -4,7 +4,7 @@
 	let showMobile = false;
 </script>
 
-<nav class="bg-stone-500">
+<nav class="bg-stone-500 print:hidden">
 	<div class="px-8 lg:max-w-6xl mx-auto">
 		<div class="flex justify-between">
 			<div class="flex space-x-4">
