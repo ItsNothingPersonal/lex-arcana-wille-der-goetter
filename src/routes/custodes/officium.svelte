@@ -64,7 +64,7 @@
 		<p>
 			Das Leben nicht-männlicher Custodes ist daher nicht einfach, da sie sich bei der Erfüllung
 			eines oftmals geheimen Auftrages immer wieder als Männer verkleiden oder vorgeben müssen, ihre
-			männlichen Kameraden nur zu begleiten, um im Volk keinen Verdacht zu erregen
+			männlichen Kameraden nur zu begleiten, um im Volk keinen Verdacht zu erregen.
 		</p>
 	</div>
 </section>
