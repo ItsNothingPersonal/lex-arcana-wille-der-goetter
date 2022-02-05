@@ -8,7 +8,7 @@
 			<div class="flex flex-1 flex-col items-center lg:items-start">
 				<h2 class="text-3xl md:text-4 lg:text-5xl text-center lg:text-left mb-6">Lex Arcana</h2>
 				<p class="text-lg text-center lg:text-left mb-6">Das ewige Kaiserreich</p>
-				<p class="text-justify text-black mt-4 px-4">
+				<p class="text-justify text-black mt-4 px-4 md:px-0">
 					Das römische Reich ist niemals gefallen, es besteht fort, gestützt durch den Kaiser und
 					seine hellseherischen Fähigkeiten, die mächtigen Legionen Roms und der Cohors Auxiliaria
 					Arcana.<br />
